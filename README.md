@@ -1,2 +1,3 @@
 # StudentRecordManagementSystemCPP
-this C++ project structure will help you in knowing about the system of file management. The program designed by you will be ready to accumulate all the students’ data and information correctly.
+this C++ project structure will help you in knowing about the system of file management. The program designed by you will be ready to accumulate all the students’ data and information correctly. This data can be any information related to the student, their personal information, academic records, roll number, etc. This project will teach you how to tackle wrong inputs.
+This code allows you to perform various operations such as adding a new student, displaying all students, searching for a student by roll number, updating student details, and deleting a student. The student information is stored in a file called "students.txt".
